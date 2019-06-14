@@ -13,4 +13,4 @@ Repo contains 5 sessions (+ exam session 2019).
 
 You can follow instructions on **ailab-1.pdf** in order to install conda and jupyter notebook.
 
-You have to unzip **gym.zip** archive in ai-lab folder before starting to run the code.
+You have to unzip **gym.zip** archive in ai-lab/gym folder before starting to run the code.
